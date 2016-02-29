@@ -16,6 +16,11 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
+    
+    
+    NSLog(@"我叫刘润东 ,这是我的第一次");
+    
+    
     // Override point for customization after application launch.
     return YES;
 }
